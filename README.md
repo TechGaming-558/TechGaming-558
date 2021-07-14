@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TechGaming-558
 - 👀 I’m interested in Technology and Gaming 
-- 🌱 I’m currently learning Hindi
-- 💞️ I’m looking to collaborate on no one
-- 📫 How to reach me email avighna.18059@dpssv.in
+- 🌱 I’m currently learning Computer
+- 💞️ I’m looking to collaborate on my mom
+- 📫 How to reach me email avighna.18059@yandex.com
 
 <!---
 TechGaming-558/TechGaming-558 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
